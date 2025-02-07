@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", event => {
 // Splash texts
 const SplashT = [
    "unblockee2.neocities.org is best unblocked site fr",
-  "i dont think no one uses my site:(",
+  "no one uses my site:(",
   "#boredatschool",
 ];
 
